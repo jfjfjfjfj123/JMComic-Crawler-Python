@@ -36,7 +36,7 @@ def main():
     disable_jm_log()
     option = create_option('../assets/option/option_workflow_export_favorites.yml')
     option.call_all_plugin('main', safe=False)
-
+JM恋爱任务
 
 if __name__ == '__main__':
     main()
